@@ -191,3 +191,6 @@ Reference:
 - https://github.com/Tianxiaomo/pytorch-YOLOv4
 - https://github.com/milesial/Pytorch-UNet
 - https://github.com/jclh/image-classifier-PyTorch
+
+# 4 聯絡資訊
+E-mail: qaz5517359@gmail.com
