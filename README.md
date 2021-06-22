@@ -97,8 +97,8 @@
 4. Private data   (https://drive.google.com/drive/folders/1n52IcT7IGtNQ5OG2wetj__WAki9ajiRO?usp=sharing)
 5. 測試時不需要更改相關路徑，只須確定所有相對路徑是否有圖片  
 6. 測試時所有更改參數的地方都在`test_cfg.yaml`進行更改  
-7. 預設測試資料位置: `./testing`
-8. 預設測試結果: `./Result`
+7. 預設測試資料路徑: `./testing`
+8. 預設測試結果路徑: `./Result`
 
 ## 1.2 開始測試  
     
