@@ -1,0 +1,34 @@
+---
+test:
+  model ensemble: true
+  image ensemble: true
+  gpu: true
+  model0_1: './Type0_model/Best AP_629x32.pth'
+  model0_2: './Type0_model/Best AP_462x6.pth'
+  model0_3: './Type0_model/Best AP_95x32_928.pth'
+  model1_1: './Type1_model/Best AP_211_640csp.pth'
+  model1_2: './Type1_model/Best AP_500.pth'
+  model1_3: './Type1_model/Best AP_57x96.pth'
+  model2_1: './Type2_model/Best F1_353.pth'
+  model2_2: './Type2_model/Best F1_353.pth'
+  model2_3: './Type2_model/Best AP_25x80.pth'
+  type0_c_n: [0.1, 0]
+  type1_c_n: [0.06, 0.15]
+  type2_c_n: [0.6, 0.02]
+  area constant0: 200
+  area constant1: 1300
+  area constant2: 0
+  data path: './testing/'
+  mask path: './UNetMaskOptimize/'
+  classes: 1
+  boundary: 0.5
+  width: 608
+  height: 608
+  save img: './Result/'
+  save csv: './Result/csv'
+
+
+classifier:
+  model path: './classifier/all_right_model.pth'
+  name json: './classifier/custom_to_name.json'
+...
