@@ -40,7 +40,7 @@
 # 0. 訓練
 
 ## 0.1 準備訓練資料  
-- 圖片準備根據主辦單位給的訓練資料總共43張圖及對應ground truth:  
+- 圖片準備根據主辦單位給的訓練資料總共43張圖及對應labels (label格式為水稻中心點座標):  
   (https://drive.google.com/drive/folders/1s_JVoaABFFWzzaZ9U0fIEXQ5z_E5OGEd?usp=sharing)
 - 利用`make_txt.py`把主辦單位給的水稻中心excel檔轉成YOLO需要的`train.txt` 與 `val.txt`檔  
 
