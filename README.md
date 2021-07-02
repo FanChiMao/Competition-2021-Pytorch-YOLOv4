@@ -161,8 +161,7 @@ python TestResult.py
     ...
     ```
   &nbsp;
-- Public dataset :  
-  (https://drive.google.com/drive/folders/1lx4rOFNm1ayZOFxhmhru6AoiEg05JO4O?usp=sharing)  
+- [Public dataset](https://drive.google.com/drive/folders/1lx4rOFNm1ayZOFxhmhru6AoiEg05JO4O?usp=sharing):  
     - Best score 
     
         |                     | F1-score    | Precision   | Recall      |
@@ -172,8 +171,7 @@ python TestResult.py
     - Leaderboard  
     ![image](https://i.ibb.co/thC0G2p/1624291305349.jpg)  
 &nbsp;
-- Private dataset :  
-  (https://drive.google.com/drive/folders/1n52IcT7IGtNQ5OG2wetj__WAki9ajiRO?usp=sharing)  
+- [Private dataset](https://drive.google.com/drive/folders/1n52IcT7IGtNQ5OG2wetj__WAki9ajiRO?usp=sharing):      
     - Best score   
     
         |                     | F1-score    | Precision   | Recall      |
