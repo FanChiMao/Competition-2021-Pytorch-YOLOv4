@@ -1,6 +1,5 @@
 # Pytorch-YOLOv4-AI CUP  
-- 水稻無人機全彩影像植株位置自動標註與應用  
-  (https://aidea-web.tw/topic/9c88c428-0aa7-480b-85e0-2d8fb2fcf3fc)  
+- [水稻無人機全彩影像植株位置自動標註與應用](https://aidea-web.tw/topic/9c88c428-0aa7-480b-85e0-2d8fb2fcf3fc)  
 ```
 ├── README.md    
 
@@ -40,8 +39,7 @@
 # 0. 訓練
 
 ## 0.1 準備訓練資料  
-- 圖片準備根據主辦單位給的訓練資料總共43張圖及對應labels (label格式為水稻中心點座標):  
-  (https://drive.google.com/drive/folders/1s_JVoaABFFWzzaZ9U0fIEXQ5z_E5OGEd?usp=sharing)
+- 圖片準備根據主辦單位給的[訓練資料](https://drive.google.com/drive/folders/1s_JVoaABFFWzzaZ9U0fIEXQ5z_E5OGEd?usp=sharing)總共43張圖及對應labels (label格式為水稻中心點座標):  
 - 利用`make_txt.py`把主辦單位給的水稻中心excel檔轉成YOLO需要的`train.txt` 與 `val.txt`檔  
 
 ## 0.2 相關參數設定
@@ -91,10 +89,10 @@
 # 1. 測試
 
 ## 1.1 相關測試參數設定
-1. AI CUP 競賽報告 (https://drive.google.com/file/d/1puLpWeq7S_aKfyerbI9787HfJ-Fl19_l/view?usp=sharing)  
-2. AI CUP 實驗記錄 (https://drive.google.com/file/d/1tNn-kyzaWkC-EPw4iEtFYSf3xShvJVQq/view?usp=sharing)  
-3. Public data    (https://drive.google.com/drive/folders/1lx4rOFNm1ayZOFxhmhru6AoiEg05JO4O?usp=sharing)
-4. Private data   (https://drive.google.com/drive/folders/1n52IcT7IGtNQ5OG2wetj__WAki9ajiRO?usp=sharing)
+1. AI CUP [競賽報告](https://drive.google.com/file/d/1puLpWeq7S_aKfyerbI9787HfJ-Fl19_l/view?usp=sharing)  
+2. AI CUP [實驗記錄](https://drive.google.com/file/d/1tNn-kyzaWkC-EPw4iEtFYSf3xShvJVQq/view?usp=sharing)  
+3. [Public data](https://drive.google.com/drive/folders/1lx4rOFNm1ayZOFxhmhru6AoiEg05JO4O?usp=sharing)
+4. [Private data](https://drive.google.com/drive/folders/1n52IcT7IGtNQ5OG2wetj__WAki9ajiRO?usp=sharing)
 5. 測試時不需要更改相關路徑，只須確定所有相對路徑是否有圖片  
 6. 測試時所有更改參數的地方都在`test_cfg.yaml`進行更改  
 7. 預設測試資料路徑: `./testing`
