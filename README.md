@@ -174,8 +174,8 @@ python TestResult.py
 - [Private dataset](https://drive.google.com/drive/folders/1n52IcT7IGtNQ5OG2wetj__WAki9ajiRO?usp=sharing):      
     - Best score   
     
-        |                     | F1-score    | Precision   | Recall      |
-        | ------------------- | ----------: | ----------: | ----------: |
+        |                     |  F1-score    |  Precision   |  Recall      |
+        | ------------------- | :----------: | :----------: | :----------: |
         | Best result         |    0.9354838|      0.91483|      0.96065|  
     
     - Leaderboard  
