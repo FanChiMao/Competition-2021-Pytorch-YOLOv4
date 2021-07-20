@@ -179,13 +179,15 @@ python TestResult.py
         | Best result         |    0.9354838|      0.91483|      0.96065|  
     
     - Leaderboard  
-    ![image](https://i.ibb.co/28qtND6/image.jpg) 
-&nbsp;
+    ![image](https://i.ibb.co/28qtND6/image.jpg)  
+    
+&nbsp;  
+
 - [官方公告最終排名](https://drive.google.com/file/d/1_1UAY8xM4EQlbQ6mt5_Fqg0Q8dY3sIbP/view?usp=sharing)  
   參加隊伍: 523隊  
-  最終排名: 總排名第 *11* 名  
-           大專院校組第 *9* 名  
-  (原第4、第5為業界隊伍)
+  最終排名:  
+  總排名第 *11* 名,  
+  大專院校組第 *9* 名(原第4、第5為業界隊伍)  
 
 
 # 3 參考資料
