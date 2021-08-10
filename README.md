@@ -192,13 +192,13 @@ python TestResult.py
 &nbsp;
 # 3 參考資料
    
-Reference:
-- https://github.com/eriklindernoren/PyTorch-YOLOv3
-- https://github.com/marvis/pytorch-caffe-darknet-convert
-- https://github.com/marvis/pytorch-yolo3
-- https://github.com/Tianxiaomo/pytorch-YOLOv4
-- https://github.com/milesial/Pytorch-UNet
-- https://github.com/jclh/image-classifier-PyTorch
+- Reference:
+   - https://github.com/eriklindernoren/PyTorch-YOLOv3
+   - https://github.com/marvis/pytorch-caffe-darknet-convert
+   - https://github.com/marvis/pytorch-yolo3
+   - https://github.com/Tianxiaomo/pytorch-YOLOv4
+   - https://github.com/milesial/Pytorch-UNet
+   - https://github.com/jclh/image-classifier-PyTorch
 
 # 4 聯絡資訊
-E-mail: qaz5517359@gmail.com
+- E-mail: qaz5517359@gmail.com
