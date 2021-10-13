@@ -1,4 +1,7 @@
 # Pytorch-YOLOv4-AI CUP  
+## 指導教授: 劉宗榮  
+## 隊名: 天卒鼠車車@NCHU  
+## 組員: [范植貿](https://github.com/FanChiMao), 蘇郁宸, 黃裕芳, 黃建凱, 藍莉淇  
 - [水稻無人機全彩影像植株位置自動標註與應用](https://aidea-web.tw/topic/9c88c428-0aa7-480b-85e0-2d8fb2fcf3fc)  
 ```
 ├── README.md    
@@ -36,9 +39,6 @@
 ├── Result                  測試結果圖及對應csv
 
 ```
-## 指導教授: 劉宗榮  
-## 隊名: 天卒鼠車車@NCHU  
-## 組員: 范植貿, 蘇郁宸, 黃裕芳, 黃建凱, 藍莉淇  
 
 # 0. 訓練
 
@@ -192,7 +192,7 @@ python TestResult.py
 
   - 最終排名: 總排名第 **11** 名 (佳作),  
     全國大專院校組第 **9** 名(原第4、第5為業界隊伍)  
-
+  - 得獎訊息: https://youtu.be/MEjPgSQiSqA  
 &nbsp;
 # 3 參考資料
    
