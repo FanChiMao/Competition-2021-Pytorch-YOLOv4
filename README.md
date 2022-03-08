@@ -193,7 +193,7 @@ python TestResult.py
   - 最終排名: 總排名第 **11** 名 (佳作),  
     全國大專院校組第 **9** 名(原第4、第5為業界隊伍)  
   - 得獎訊息: https://youtu.be/MEjPgSQiSqA  
-  - 得獎獎狀: ![image](https://i.imgur.com/qU8FA29.jpg)  
+  - 得獎獎狀: <img src = "https://i.imgur.com/qU8FA29.jpg" alt="SRMNet" width="800">  
 &nbsp;
 # 3 參考資料
    
