@@ -1,4 +1,4 @@
-# Pytorch-YOLOv4-AI CUP  
+# [AICUP 2021] Pytorch-YOLOv4-AI CUP  
 ## 指導教授: 劉宗榮  
 ## 隊名: 天卒鼠車車@NCHU  
 ## 組員: [范植貿](https://github.com/FanChiMao), 蘇郁宸, 黃裕芳, 黃建凱, 藍莉淇  
