@@ -208,4 +208,4 @@ python TestResult.py
 # 4 聯絡資訊
 - E-mail: qaz5517359@gmail.com
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=YOLO_AICUP)  
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2021-Pytorch-YOLOv4&label=visitors&countColor=%232ccce4&style=plastic)  
